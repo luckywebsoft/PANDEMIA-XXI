@@ -8,3 +8,7 @@ Versiones Disponibles:
   
     ** AMSTRAD: Con imágenes -> DSK, M4 y Dandanator (ES)
                 Sin Imágenes -> DSK (ES)
+                
+    ** ZX-SPECTRUM: Versión solo texto -> TAP
+    
+    ** MSX: Versión solo texto -> DSK 
